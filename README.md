@@ -1,7 +1,7 @@
-#Gemini 2.0 Live API를 활용한 프로젝트입니다!
- 사용한 파이썬 버전: Python 3.10
- 설치한 패키지: pyserial, google-genai==0.2.2
- 실행도중 SSL 에러를 만나면 https://curryyou.tistory.com/179를 참고하세요!
+# Gemini 2.0 Live API를 활용한 프로젝트입니다!
+ 1. 사용한 파이썬 버전: Python 3.10
+ 2. 설치한 패키지: pyserial, google-genai==0.2.2
+ 3. (혹시) 실행도중 SSL 에러를 만나면 https://curryyou.tistory.com/179를 참고하세요!
  
 
 # 코드 설명
